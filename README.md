@@ -14,6 +14,14 @@
 
 <h3 align="center">Hello, thanks for visiting my profile I am a developer from Bolivia, I worked in different projects and I love to manage Frontend, I am a programmer who adapts to any situation, and I want to leave a mark on the world</h3>
 
+- 🔭 I am currently working on different projects. 
+- 🌱 I am currently learning Unix development and programming languages.
+- 💬 Ask me about languages like Java or python I learned a lot from them.
+- 📫 How to contact me by mail anghelozambrana2005@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm 1.89 despite being under 20 years old, everyone says giraffe or lamppost.
+  
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AngheloZambrana" alt="AngheloZambrana" /></a> </p>
 
 ---
@@ -110,12 +118,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
