@@ -82,6 +82,9 @@
 
 <div>
   <p align="center">
+    <a href="https://github.com/AngheloZambrana/Practicas-Python">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngheloZambrana&repo=Practicas-Python&theme=tokyonight" alt="Prácticas Python" />
+    </a>	  
     <a href="https://github.com/AngheloZambrana/Programaci-n-V-en-Haskell">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngheloZambrana&repo=Programaci-n-V-en-Haskell&theme=tokyonight" alt="Programación V en Haskell" />
     </a>
