@@ -86,7 +86,16 @@
         </a>
     </p>
 </details>
-	
+
+<details>
+    <summary><h3>:hourglass: Estadísticas de WakaTime</h3></summary>
+    <p align="center">
+        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=AngheloZambrana">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AngheloZambrana" alt="Estadísticas de WakaTime para AngheloZambrana" />
+        </a>
+    </p>
+</details>
+
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 <div>
