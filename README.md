@@ -78,7 +78,14 @@
 
 </details>
 
-https://github-contributor-stats.vercel.app/api?username=AngheloZambrana&limit=5&theme=dark&combine_all_yearly_contributions=true
+<details>
+    <summary><h3>:chart_with_upwards_trend: Contribuciones a Proyectos</h3></summary>
+    <p align="center">
+        <a href="https://github-contributor-stats.vercel.app/api?username=AngheloZambrana&limit=5&theme=dark&combine_all_yearly_contributions=true">
+            <img src="https://github-contributor-stats.vercel.app/api?username=AngheloZambrana&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribuciones a Proyectos" />
+        </a>
+    </p>
+</details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
