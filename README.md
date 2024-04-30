@@ -77,6 +77,8 @@
 </p>
 
 </details>
+
+https://github-contributor-stats.vercel.app/api?username=AngheloZambrana&limit=5&theme=dark&combine_all_yearly_contributions=true
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
